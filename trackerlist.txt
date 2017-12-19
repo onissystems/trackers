@@ -1,4 +1,4 @@
-An updated list of public BitTorrent trackers
+#An updated list of public BitTorrent trackers
 
 udp://tracker.cyberia.is:6969/announce
 
